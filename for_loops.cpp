@@ -27,5 +27,6 @@ int main() {
 
 	cout<<"changes done after removing from staging area"<<endl;
 
+	cout<<"New chanhge in dev branch"<<endl;
 	return 0;
 }
