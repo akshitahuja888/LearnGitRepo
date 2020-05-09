@@ -23,5 +23,9 @@ int main() {
 		cout<<"git"<<endl;
 	}
 
+	cout<<"Done with for loops"<<endl;
+
+	cout<<"changes done after removing from staging area"<<endl;
+
 	return 0;
 }
